@@ -1,4 +1,4 @@
 # odin-recipies
-Odin Project - Brutalist Recipies Site
+Odin Project - Brutalist Recipes Site
 
 A brutally minimalist site built in HTML
