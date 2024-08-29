@@ -1,0 +1,44 @@
+body {
+    text-align: center;
+    font-family: Arial, sans-serif;
+    padding-top: 5%;
+}
+
+h1 {
+    font-size: 46px;
+}
+
+.recipe-container {
+    display: flex;
+    justify-content: center;
+    gap: 20px;
+    flex-wrap: wrap;
+    margin: 20px;
+    align-items: center;
+    flex-direction: row;
+    flex-wrap: wrap;
+}
+
+.recipe {
+    display: flex;
+    align-items: center;
+    margin-bottom: 20px;
+}
+
+.recipe img {
+    max-width: 20%;
+    height: auto;
+    display: block;
+}
+
+.recipe a {
+    margin-top: 10px;
+    text-decoration: none;
+    color: #333;
+    font-size: 18px;
+}
+
+.recipe a:hover {
+    color: cadetblue;
+    text-decoration: underline;
+}
